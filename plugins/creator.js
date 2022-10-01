@@ -35,7 +35,7 @@ let teksbio = `┆⫹⫺ 💌 Nama : Niluh
 └––––––––––––·•
 `
 let ppown2 = await conn.profilePictureUrl(nomorown2 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
-let teksbio2 = `┆⫹⫺ 💌 Nama : Alganz
+let teksbio2 = `┆⫹⫺ 💌 Nama : Alganz  
 ┆⫹⫺ ✉️ Nama RL : HAMBA ALLAH
 ┆⫹⫺ ♂️ Gender : Pria
 ┆⫹⫺ 🕋 Agama : Islam
