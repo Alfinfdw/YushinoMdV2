@@ -22,12 +22,12 @@ let teksnomor = (
 )
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown1 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1])
-let teksbio = `┆⫹⫺ 💌 Nama : AlGanz
-┆⫹⫺ ✉️ Nama RL : HAMBA ALLAH
-┆⫹⫺ ♂️ Gender : Pria
-┆⫹⫺ 🕋 Agama : Islam
-┆⫹⫺ ⏰ Tanggal lahir : 07 - 08 - 1999
-┆⫹⫺ 🎨 Umur : 23
+let teksbio = `┆⫹⫺ 💌 Nama : Niluh
+┆⫹⫺ ✉️ Nama RL : Niluh 
+┆⫹⫺ ♂️ Gender : wanita 
+┆⫹⫺ 🕋 Agama : non muslim 
+┆⫹⫺ ⏰ Tanggal lahir : 11 - 07 - 2000
+┆⫹⫺ 🎨 Umur : 22
 ┆⫹⫺ 🧮 Kelas : -
 ┆⫹⫺ 🧩 Hobby : Dengerin musik 
 ┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH
@@ -35,13 +35,13 @@ let teksbio = `┆⫹⫺ 💌 Nama : AlGanz
 └––––––––––––·•
 `
 let ppown2 = await conn.profilePictureUrl(nomorown2 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
-let teksbio2 = `┆⫹⫺ 💌 Nama : Niluh 
+let teksbio2 = `┆⫹⫺ 💌 Nama : Alganz
 ┆⫹⫺ ✉️ Nama RL : HAMBA ALLAH
-┆⫹⫺ ♂️ Gender : Wanita
-┆⫹⫺ 🕋 Agama : Non Muslim
-┆⫹⫺ ⏰ Tanggal lahir : 07 - 05 - 2000
-┆⫹⫺ 🎨 Umur : 22
-┆⫹⫺ 🧮 Kelas : IX
+┆⫹⫺ ♂️ Gender : Pria
+┆⫹⫺ 🕋 Agama : Islam
+┆⫹⫺ ⏰ Tanggal lahir : 07 - 08 - 1999
+┆⫹⫺ 🎨 Umur : 23
+┆⫹⫺ 🧮 Kelas : -
 ┆⫹⫺ 🧩 Hobby : Banyak
 ┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH
 ┆⫹⫺ 🗺️ Tinggal : Indonesia, Jawa Timur 
