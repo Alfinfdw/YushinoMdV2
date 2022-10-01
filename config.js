@@ -80,14 +80,14 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6282223011829', 'Alganz', true],
-['4915256954581', 'Niluh', true]
+['6282223011829', 'ALSby', true],
+['4915256954581', 'Niluhchan', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6285852939370'
 global.nomorown = '4915256954581'
-global.nomorown1 = '6282223011829'
+global.nomorown1 = '491525695481'
 global.nomorown2 = '6282223011829'
 global.nomorwa = '0'
 
