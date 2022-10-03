@@ -81,21 +81,21 @@ const readMore = more.repeat(4001)
 
 global.owner = [
 ['6282223011829', 'ALSby', true],
-['4915256954581', 'Niluhchan', true]
+['6285852939370', 'bot', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6285852939370'
 global.nomorown = '6282223011829'
 global.nomorown1 = '6282223011829'
-global.nomorown2 = '4915256954581'
+global.nomorown2 = '6285852939370'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'ALganz X Niluh'
+global.author = 'ALganz X Bot'
 global.namebot = '​ ALganz OFC'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
@@ -111,7 +111,7 @@ global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.nameown1= 'AlGanz'
-global.nameown2 = 'Niluh'
+global.nameown2 = 'Bot'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
