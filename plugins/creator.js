@@ -22,16 +22,16 @@ let teksnomor = (
 )
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown1 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1])
-let teksbio = `┆⫹⫺ 💌 Nama : Niluh
-┆⫹⫺ ✉️ Nama RL : Niluh 
-┆⫹⫺ ♂️ Gender : wanita 
-┆⫹⫺ 🕋 Agama : non muslim 
-┆⫹⫺ ⏰ Tanggal lahir : 11 - 07 - 2000
-┆⫹⫺ 🎨 Umur : 22
+let teksbio = `┆⫹⫺ 💌 Nama : Non information 
+┆⫹⫺ ✉️ Nama RL : No information 
+┆⫹⫺ ♂️ Gender : -
+┆⫹⫺ 🕋 Agama : -
+┆⫹⫺ ⏰ Tanggal lahir : -
+┆⫹⫺ 🎨 Umur : -
 ┆⫹⫺ 🧮 Kelas : -
 ┆⫹⫺ 🧩 Hobby : Dengerin musik 
 ┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH
-┆⫹⫺ 🗺️ Tinggal : Indonesia, Jawa Timur 
+┆⫹⫺ 🗺️ Tinggal : Indonesia, Jawa Timur
 └––––––––––––·•
 `
 let ppown2 = await conn.profilePictureUrl(nomorown2 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
