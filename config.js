@@ -95,7 +95,7 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'ALganz X Bot'
+global.author = 'ALganz X Niluh'
 global.namebot = '​ ALganz OFC'
 global.wm = '© ALganz x Niluh'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
