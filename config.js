@@ -3,8 +3,8 @@
 ⫰⫯ Note!! Kalo Mau Hapus Ngotak Dulu,Siapa Yg Buat Siapa Yg Kerja Siapa Yang Nyediain Scriptnya
 
 𝐀𝐮𝐭𝐡𝐨𝐫 : ALGANZ OFC 
-𝐖𝐚 : 081361281833
-𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
+𝐖𝐚 : 082223011829
+𝐛𝐚𝐬𝐞 : ALGANZ OFC 
 𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
 
 ⫹❰⫺ 𝐵𝐼𝐺 𝑇𝐻𝐴𝑁𝐾𝑆 𝑇𝑂 ⫹❱⫺
@@ -81,14 +81,14 @@ const readMore = more.repeat(4001)
 
 global.owner = [
 ['6282223011829', 'ALSby', true],
-['6285852939370', 'bot', true]
+['4915256954581', 'Niluh', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6285852939370'
 global.nomorown = '6282223011829'
 global.nomorown1 = '6282223011829'
-global.nomorown2 = '6285852939370'
+global.nomorown2 = '4915256954581'
 global.nomorwa = '0'
 
 
@@ -97,21 +97,21 @@ global.nomorwa = '0'
 global.readMore = readMore
 global.author = 'ALganz X Bot'
 global.namebot = '​ ALganz OFC'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
+global.wm = '© ALganz x Niluh'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.wm = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
 global.watermark = wm
 global.wm2 = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
-global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
-global.stickauth = `© Yushino MD`
+global.titlebot = `ALganz x Niluh`
+global.stickpack = 'Alganz x Niluh'
+global.stickauth = `© Niluh MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.nameown1= 'AlGanz'
-global.nameown2 = 'Bot'
+global.nameown2 = 'Niluh'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
@@ -130,7 +130,7 @@ global.povo = '-'
 global.pgopay = '0822 2301 1829'
 global.plinkaja = '-' //link aja
 global.ppulsa = '0822 2301 1829'
-global.ppulsa2 = '085852939370'
+global.ppulsa2 = '4915256954581'
 global.psaweria = 'https://saweria.co/hyuura'
 
 
