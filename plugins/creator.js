@@ -29,21 +29,21 @@ let teksbio = `┆⫹⫺ 💌 Nama : Non information
 ┆⫹⫺ ⏰ Tanggal lahir : -
 ┆⫹⫺ 🎨 Umur : -
 ┆⫹⫺ 🧮 Kelas : -
-┆⫹⫺ 🧩 Hobby : Dengerin musik 
-┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH
+┆⫹⫺ 🧩 Hobby : -
+┆⫹⫺ 💬 Sifat : -
 ┆⫹⫺ 🗺️ Tinggal : Indonesia, Jawa Timur
 └––––––––––––·•
 `
 let ppown2 = await conn.profilePictureUrl(nomorown2 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
-let teksbio2 = `┆⫹⫺ 💌 Nama : Alganz  
-┆⫹⫺ ✉️ Nama RL : HAMBA ALLAH
-┆⫹⫺ ♂️ Gender : Pria
-┆⫹⫺ 🕋 Agama : Islam
-┆⫹⫺ ⏰ Tanggal lahir : 07 - 08 - 1999
-┆⫹⫺ 🎨 Umur : 23
+let teksbio2 = `┆⫹⫺ 💌 Nama : - 
+┆⫹⫺ ✉️ Nama RL : -
+┆⫹⫺ ♂️ Gender : -
+┆⫹⫺ 🕋 Agama : -
+┆⫹⫺ ⏰ Tanggal lahir : -
+┆⫹⫺ 🎨 Umur : -
 ┆⫹⫺ 🧮 Kelas : -
-┆⫹⫺ 🧩 Hobby : Banyak
-┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH
+┆⫹⫺ 🧩 Hobby : -
+┆⫹⫺ 💬 Sifat : -
 ┆⫹⫺ 🗺️ Tinggal : Indonesia, Jawa Timur 
 └––––––––––––·•
 `
@@ -64,7 +64,7 @@ rows: [
 {title: "⸙ Kontak", rowId: ".owner kontak"},
 {title: "⸙ Nomor", rowId: ".owner nomor"},
 {title: "⸙ Biodata ALganz", rowId: ".owner bio"},
-{title: "⸙ Biodata 2no", rowId: ".owner bio2"},
+{title: "⸙ Biodata niluh", rowId: ".owner bio2"},
 {title: "⸙ Script", rowId: ".sc"},
 ]}, {
 title: `⬔ Sᴜᴘᴘᴏʀᴛ Mᴇ ⬔`,
