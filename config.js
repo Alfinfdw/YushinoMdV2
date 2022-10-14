@@ -81,37 +81,37 @@ const readMore = more.repeat(4001)
 
 global.owner = [
 ['6282223011829', 'ALSby', true],
-['4915256954581', 'Niluh', true]
+['6285852939379', 'Bot', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6285852939370'
 global.nomorown = '6282223011829'
 global.nomorown1 = '6282223011829'
-global.nomorown2 = '4915256954581'
+global.nomorown2 = '6285852939370'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'ALganz X Niluh'
+global.author = 'ALganz Ofc'
 global.namebot = '​ ALganz OFC'
-global.wm = '© ALganz x Niluh'
+global.wm = '© ALganz Ofc'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.wm = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
 global.watermark = wm
 global.wm2 = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `ALganz x Niluh`
-global.stickpack = 'Alganz x Niluh'
-global.stickauth = `© Niluh MD`
+global.titlebot = `ALganz Ofc`
+global.stickpack = 'Alganz Ofc'
+global.stickauth = `© Alganz MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.nameown1= 'AlGanz'
-global.nameown2 = 'Niluh'
+global.nameown2 = 'Bot'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
@@ -130,7 +130,7 @@ global.povo = '-'
 global.pgopay = '0822 2301 1829'
 global.plinkaja = '-' //link aja
 global.ppulsa = '0822 2301 1829'
-global.ppulsa2 = '4915256954581'
+global.ppulsa2 = '6285852939370'
 global.psaweria = 'https://saweria.co/hyuura'
 
 
